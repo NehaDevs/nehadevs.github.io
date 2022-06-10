@@ -94,8 +94,11 @@ body {
 }
 .timelinedates{
   font-size: 50px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 150;
 }
 .datestext{
   font-size: 30px;
   margin-top: 15px;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
