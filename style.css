@@ -45,6 +45,6 @@ body{
 @media(min-width : 768px){
   body{
     width: 100vw;
-    height: 800vh;
+    height: 400vh;
   }
 }

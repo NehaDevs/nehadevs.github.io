@@ -104,7 +104,7 @@ body {
 }
 @media (min-width: 768px){
   body{
-    height: 800vh;
+    height: 600vh;
     width: 100vw;
   }
 }
